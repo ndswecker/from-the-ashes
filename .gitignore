@@ -1,0 +1,46 @@
+# =============================
+# Obsidian Vault Git Ignore
+# =============================
+
+# Obsidian workspace state (UI layout, open notes, etc.)
+.obsidian/workspace
+.obsidian/workspace.json
+
+# Obsidian cache files
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/app.json
+
+# Obsidian plugin data (optional – some plugins store large data here)
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache/
+
+# If you want to keep plugin settings but NOT plugin data
+# Uncomment below:
+# .obsidian/plugins/*/main.js
+# .obsidian/plugins/*/*.md
+
+# System files (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOS files (if ever synced or used cross-platform)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temp / backup / autosave files
+*.tmp
+*.temp
+*.bak
+*~
+.~lock.*
+
+# Node or Python environments (just in case)
+node_modules/
+__pycache__/
+
+# =============================
+# End of Obsidian Git Ignore
+# =============================
