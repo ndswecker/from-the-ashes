@@ -11,10 +11,14 @@
             "id": "cb79975d794ebef7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Monster Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Monster Template"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "cb79975d794ebef7",
   "lastOpenFiles": [
+    "_templates/Monster Template.md",
+    "_templates",
     "Sessions",
     "New folder",
     "Nodes",
@@ -186,8 +192,6 @@
     "07 - Items and Artifacts",
     "06 - NPCs",
     "05 - Monsters",
-    "04 - Factions",
-    "03 - Regions and Locations",
-    "03 - Regions"
+    "04 - Factions"
   ]
 }
