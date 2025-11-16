@@ -1,65 +1,68 @@
 ---
 tags: [monster]
-cr: 
-type: 
-size: 
-alignment: 
+cr:
+type:
+size:
+alignment:
 ---
 
 # {{title}}
 
-**Medium humanoid (any race), neutral**
+**{{size}} {{type}}, {{alignment}}**
 
 ---
 
+## Stat Block Summary  
 ### Armor Class
 ### Hit Points
 ### Speed
 
 ---
 
-## STR | DEX | CON | INT | WIS | CHA
-|     |     |     |     |     |     |
+## Ability Scores
+| STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |
 
 ---
 
-## Saving Throws
-- 
+## Creature Details
+### Saving Throws
+-  
 
-## Skills
-- 
+### Skills
+-  
 
-## Damage Resistances
-- 
+### Damage Resistances
+-  
 
-## Damage Immunities
-- 
+### Damage Immunities
+-  
 
-## Condition Immunities
-- 
+### Condition Immunities
+-  
 
-## Senses
-- 
+### Senses
+-  
 
-## Languages
-- 
+### Languages
+-  
 
-## Challenge
+### Challenge
 CR {{cr}} ( )
 
 ---
 
-## Traits
-**Trait Name.** Description of what the trait does.  
+## Special Traits
+**Trait Name.** Description of the passive feature.  
 **Trait Name.** Description.
 
 ---
 
 ## Actions
-**Attack Name.** *Melee or Ranged Weapon Attack:* + to hit, reach or range , one target. *Hit:* damage type damage.  
-**Multiattack.** Description.
+**Multiattack.** Description.  
+**Attack Name.** *Melee or Ranged Weapon Attack:* + to hit, reach or range, one target. *Hit:* damage damage type.  
+**Bonus Action Name (Bonus Action).** Description of the bonus action ability.
 
 ---
 
@@ -69,14 +72,15 @@ CR {{cr}} ( )
 ---
 
 ## Legendary Actions
-If applicable.
+If applicable.  
+**Legendary Action Option.** Description.
 
 ---
 
 ## Description & Lore
-Narrative description, ecology, behavior, mythic ties, origins.
+Narrative overview and worldbuilding details.
 
 ---
 
 ## DM Notes
-Use this section for encounter ideas, environment notes, and special rulings.
+Behind-the-screen information, tactics, encounter role, reminders.
