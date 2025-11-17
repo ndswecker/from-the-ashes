@@ -14,5 +14,5 @@ WHERE contains(file.tags, "faction")
 ```
 ---
 # Factions
-[[Cult of Restoration and Preservation]]
-[[Jehovahs Hegemony of Greater Idaho]]
+[Cult of Restoration and Preservation](Cult%20of%20Restoration%20and%20Preservation.md)
+[Jehovahs Hegemony of Greater Idaho](Jehovahs%20Hegemony%20of%20Greater%20Idaho.md)

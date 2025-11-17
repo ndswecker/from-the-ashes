@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regions and Locations/Ellensburg.md",
-                "mode": "source",
+                "file": "04 - Factions/Factions.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellensburg"
+              "title": "Factions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regions and Locations/Ellensburg.md",
+                "file": "04 - Factions/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ellensburg"
+              "title": "Backlinks for Factions"
             }
           },
           {
@@ -183,10 +183,10 @@
   },
   "active": "cb79975d794ebef7",
   "lastOpenFiles": [
-    "Regions and Locations/Ellensburg.md",
-    "Regions and Locations",
     "04 - Factions/Cult of Restoration and Preservation.md",
     "04 - Factions/Factions.md",
+    "Regions and Locations/Ellensburg.md",
+    "Regions and Locations",
     "05 - Creatures/Knight of the Silver Veil.md",
     "05 - Creatures/Creatures.md",
     "_templates/Monster Template.md",
