@@ -1,9 +1,24 @@
 ---
 tags: [monster]
-cr:
-type:
-size:
-alignment:
+faction: {{faction}}
+name: {{monster_name}}
+cr: {{cr}}
+type: {{type}}
+size: {{size}}
+alignment: {{alignment}}
+
+ac: {{ac}}
+hp: {{hp}}
+speed: {{speed}}
+
+str: {{str}}
+dex: {{dex}}
+int: {{int}}
+wis: {{wis}}
+cha: {{cha}}
+
+damage_resistances: {{damage_resistances}}
+damage_immunities: {{damage_immunities}}
 ---
 
 # {{monster_name}}
