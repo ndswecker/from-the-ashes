@@ -1,3 +1,8 @@
+---
+tags: [faction]
+alignment: lawful neutral
+---
+
 # 🛠️ The Cult of Restoration and Preservation
 ### *“To Serve and Obey.”*  
 **Alignment:** Lawful Neutral  
