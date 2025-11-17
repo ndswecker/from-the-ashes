@@ -1,10 +1,13 @@
----
+
+
+```yaml
 tags: [monster, hegemony, silver-veil]
 cr: 3
 type: humanoid
 size: Medium
 alignment: lawful evil
----
+```
+
 
 # Knight of the Silver Veil
 
