@@ -3,10 +3,23 @@ tags:
   - monster
   - hegemony
   - silver-veil
+faction: Jevohas Hegemony of Greater Idaho
+name: Knight of the Silver Veil
 cr: 3
 type: humanoid
 size: Medium
 alignment: lawful evil
+
+ac: 18
+hp: 52
+speed: 30
+
+str: 16
+dex: 11
+con: 16
+int: 10
+wis: 14
+cha: 14
 ---
 
 # Knight of the Silver Veil
