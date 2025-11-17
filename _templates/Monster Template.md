@@ -6,16 +6,16 @@ size:
 alignment:
 ---
 
-# {{title}}
+# {{monster_name}}
 
 **{{size}} {{type}}, {{alignment}}**
 
 ---
 
 ## Stat Block Summary  
-### Armor Class
-### Hit Points
-### Speed
+**Armor Class** {{amor_class}}
+**Hit Points** {{hit_points}}
+**Speed** {{speed}}
 
 ---
 

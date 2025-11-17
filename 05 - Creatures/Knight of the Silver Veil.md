@@ -11,25 +11,14 @@ alignment: lawful evil
 
 # Knight of the Silver Veil
 
-**Medium humanoid (human), lawful evil**
+Medium humanoid (human), lawful evil
 
 ---
 
 ## Stat Block Summary
-
-<h3>Armor Class <span style="font-weight: normal;">18 (plate armor)</span></h3>
-
-> ### Armor Class 
-> 18 (plate armor)
-
-### Armor Class \
-18 (plate armor)
-
-
-
-### Hit Points 52 (18d8 + 16)
-
-### Speed 30 ft.
+**Armor Class**: 18 (Plate Armor)
+**Hit Points**: 52 (18d8 + 16)
+**Speed** 30 ft.
 
 ---
 
