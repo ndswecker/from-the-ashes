@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Creatures/Creatures.md",
+                "file": "05 - Creatures/Knight of the Silver Veil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creatures"
+              "title": "Knight of the Silver Veil"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Creatures/Creatures.md",
+                "file": "05 - Creatures/Knight of the Silver Veil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creatures"
+              "title": "Backlinks for Knight of the Silver Veil"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "cb79975d794ebef7",
   "lastOpenFiles": [
-    "05 - Creatures/Knight of the Silver Veil.md",
     "05 - Creatures/Creatures.md",
+    "05 - Creatures/Knight of the Silver Veil.md",
     "_templates/Monster Template.md",
     "_templates",
     "Sessions",

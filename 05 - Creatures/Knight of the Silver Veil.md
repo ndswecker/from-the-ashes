@@ -16,6 +16,9 @@ alignment: lawful evil
 ---
 
 ## Stat Block Summary
+| Armor Class | Hit Points | Speed |     |
+| ----------- | ---------- | ----- | --- |
+| 18          | 25         | 30ft  |     |
 ### Armor Class
 18 (plate armor)
 
