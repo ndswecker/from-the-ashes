@@ -9,7 +9,6 @@ Any file in **05 - Creatures** with the tag `monster` in its YAML frontmatter wi
 
 ```dataview
 LIST
-FROM "05 - Creatures"
 WHERE contains(file.tags, "monster")
 ```
 

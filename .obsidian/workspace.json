@@ -15,7 +15,7 @@
               "state": {
                 "file": "05 - Creatures/Creatures.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Creatures"
