@@ -5,11 +5,14 @@ Any file in **05 - Creatures** with the tag `monster` in its YAML frontmatter wi
 
 ---
 
-## All Creatures
-
+## Dynamic List Creatures 
+(DataView in Obsidian only)
 ```dataview
 TABLE cr as "CR", type as "Type", alignment as "Alignment"
 FROM "05 - Creatures"
 WHERE contains(file.tags, "monster")
 ```
 
+---
+## Creatures 
+[[Knight of the Silver Veil]]
