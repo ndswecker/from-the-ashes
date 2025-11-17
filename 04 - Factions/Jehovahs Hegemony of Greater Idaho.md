@@ -1,3 +1,8 @@
+---
+tags: [faction]
+alignment: lawful evil
+---
+
 # ✨ Jehovah’s Hegemony of Greater Idaho
 ### *“Bow and Be Saved. Resist and Be Broken.”*  
 **True Divine Patron:** **Bane** (unknown to most followers)  

@@ -5,9 +5,14 @@ Any file in **04 - Factions** with the tag `faction` in its YAML frontmatter wil
 
 ---
 
-## Dynamic List Creatures 
+## Dynamic Faction List
 (DataView in Obsidian only)
 ```dataview
 List
 FROM "04 - Factions"
 WHERE contains(file.tags, "faction")
+```
+---
+# Factions
+[[Cult of Restoration and Preservation]]
+[[Jehovahs Hegemony of Greater Idaho]]
