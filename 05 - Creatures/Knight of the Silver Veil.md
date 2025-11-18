@@ -32,6 +32,7 @@ Medium humanoid (human), lawful evil
 **Armor Class**: 18 (Plate Armor)
 **Hit Points**: 52 (18d8 + 16)
 **Speed** 30 ft.
+**Challenge Rating:** CR 3 (700 XP)
 
 ---
 
@@ -43,26 +44,17 @@ Medium humanoid (human), lawful evil
 ---
 
 ## Creature Details
-### Saving Throws
-Wis +4, Cha +4
+**Saving Throws:** Wis +4, Cha +4
 
-### Skills
-Intimidation +4, Athletics +5, Perception +4
+**Skills:** Intimidation +4, Athletics +5, Perception +4
 
-### Damage Resistances
-Psychic (from Silver Veil conditioning)
+**Damage Resistances:** Psychic (from Silver Veil conditioning)
 
-### Condition Immunities
-Charmed (from indoctrination)
+**Condition Immunities:** Charmed (from indoctrination)
 
-### Senses
-Passive Perception 14
+**Passive Perception:** 14
 
-### Languages
-Common
-
-### Challenge
-CR 3 (700 XP)
+**Languages:** Common
 
 ---
 
@@ -103,7 +95,7 @@ Knights of the Silver Veil form the disciplined military aristocracy of the **Je
 
 Their signature artifact—the **Bracer of Dominance**—allows them to command enslaved creatures who wear the paired slave collar. These knights are often placed in charge of labor camps, forward raids, or elite detachments where absolute control is required.
 
-They believe themselves chosen by Jehovah to bring dominion to the post-apocalyptic world.
+They believe themselves chosen by Jehovah to bring dominion to the post-apocalyptic world for a promised millenia.
 
 ---
 

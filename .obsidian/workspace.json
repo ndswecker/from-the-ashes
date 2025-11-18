@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Factions/Jehovahs Hegemony of Greater Idaho.md",
-                "mode": "preview",
+                "file": "05 - Creatures/Knight of the Silver Veil.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jehovahs Hegemony of Greater Idaho"
+              "title": "Knight of the Silver Veil"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Factions/Jehovahs Hegemony of Greater Idaho.md",
+                "file": "05 - Creatures/Knight of the Silver Veil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jehovahs Hegemony of Greater Idaho"
+              "title": "Backlinks for Knight of the Silver Veil"
             }
           },
           {
@@ -184,11 +184,13 @@
   "active": "cb79975d794ebef7",
   "lastOpenFiles": [
     "04 - Factions/Cult of Restoration and Preservation.md",
+    "01 - Lore/Lore.md",
+    "05 - Creatures/Knight of the Silver Veil.md",
+    "05 - Creatures/Creatures.md",
+    "04 - Factions/Jehovahs Hegemony of Greater Idaho.md",
     "04 - Factions/Factions.md",
     "Regions and Locations/Ellensburg.md",
     "Regions and Locations",
-    "05 - Creatures/Knight of the Silver Veil.md",
-    "05 - Creatures/Creatures.md",
     "_templates/Monster Template.md",
     "_templates",
     "Sessions",
