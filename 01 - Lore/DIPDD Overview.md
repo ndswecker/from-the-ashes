@@ -1,7 +1,6 @@
 ---
 tags: [DIPDD, cataclysm, medical, lore]
 type: overview
-status: complete
 aliases:
   - Digital-Induced Perceptual Deterioration Disorder
   - The Veil Syndrome
