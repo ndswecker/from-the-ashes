@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Creatures/Knight of the Silver Veil.md",
+                "file": "01 - Lore/DIPDD Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knight of the Silver Veil"
+              "title": "DIPDD Overview"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "cb79975d794ebef7",
   "lastOpenFiles": [
+    "05 - Creatures/Knight of the Silver Veil.md",
+    "01 - Lore/DIPDD Overview.md",
+    "05 - Creatures/Creatures.md",
     "04 - Factions/Cult of Restoration and Preservation.md",
     "01 - Lore/Lore.md",
-    "05 - Creatures/Knight of the Silver Veil.md",
-    "05 - Creatures/Creatures.md",
     "04 - Factions/Jehovahs Hegemony of Greater Idaho.md",
     "04 - Factions/Factions.md",
     "Regions and Locations/Ellensburg.md",
