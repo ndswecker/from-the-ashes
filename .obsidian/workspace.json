@@ -11,10 +11,14 @@
             "id": "cb79975d794ebef7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06 - NPCs/Yellen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yellen"
             }
           }
         ]
@@ -177,10 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ebc163de3a2caad",
+  "active": "cb79975d794ebef7",
   "lastOpenFiles": [
-    "06 - NPCs/Yellen.md",
+    "01 - Lore/Death of Abimelech - True.md",
     "Sessions/encounter-opium-factory-boss.md",
+    "06 - NPCs/Yellen.md",
     "01 - Lore/DIPDD Overview.md",
     "01 - Lore/DIPDD - DSM Diagnostic Criteria.md",
     "05 - Creatures/Knight of the Silver Veil.md",
