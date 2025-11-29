@@ -1,3 +1,28 @@
+---
+title: "The Truth of General Abimelech"
+type: lore
+era: "First Century After the Cataclysm"
+location: "Wenas Valley, Umtanum Hills"
+characters:
+  - general-abimelech
+  - lady-ruth-ginsengburg
+  - captain-david
+factions:
+  - hegemony
+  - silver-veil
+  - umtanum-enclave
+tags:
+  - lore
+  - lore/hegemony
+  - lore/umtannum
+  - location/wenas-valley
+  - npc/general-abimelech
+  - npc/lady-ruth-ginsengburg
+  - faction/silver-veil
+  - species/elves
+  - species/tieflings
+---
+
 # The Truth of General Abimelech
 
 _A Story told at night by a campfire from the mouth Yellen of Fox Island_
@@ -173,3 +198,8 @@ Generations of children heard the tale and learned its moral:
 Have no sympathy for the false races. They will only betray you.
 
 Captain David slept soundly, for history bowed to his version, and history bows to all those with power.
+
+## Related
+  - [[Lady Ruth Ginsengburg]]
+  - [[General Abimelech]]
+  - [[Hegemony Version of Abimelech]]

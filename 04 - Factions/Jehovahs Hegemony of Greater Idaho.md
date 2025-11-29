@@ -1,5 +1,5 @@
 ---
-tags: [faction]
+tags: [faction, hegemony, yakima, spokane, boise, idaho]
 alignment: lawful evil
 ---
 
