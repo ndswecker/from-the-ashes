@@ -25,37 +25,36 @@
 
 7. And I said unto him,  
    “My lord, remember the command.  
-   These are as the Canaanites of old—worshipers of many gods.  
-   One God, One Land, One Human-kind.”
+   These are as the Canaanites of old, worshipers of many gods.”
 
 8. But Abimelech rebuked me, saying,  
    “The sword is not always wisdom, David.  
    I will show mercy, that Jehovah may be magnified.”
 
-9. ★ Then Ruth of Ginsengburg came forth, veiled in white and adorned with flowers of the grove,  
+9. Then Ruth of Ginsengburg came forth, veiled in white and adorned with flowers of the grove,  
    her beauty as snares and her words as smooth oil.
 
-10. ★ And she said,  
+10. And she said,  
     “Great lord, we will honor thy God among our gods.  
     Only spare us, and we shall dwell beneath thy shadow.”
 
-11. ★ And Abimelech stretched forth his hand unto her,  
+11. And Abimelech stretched forth his hand unto her,  
     for her words pleased him more than the commandment.
 
-12. ★ But I, David, cried aloud,  
+12. But I, David, cried aloud,  
     “This is whoredom of the spirit!  
-    Jehovah is not one among many gods—He alone is God.  
+    Jehovah is not one among many gods, He alone is God.  
     Cast down her idols, else wrath devour us!”
 
-13. ★ Yet Abimelech silenced me,  
-    delighting in the praise of men more than obedience to Jehovah.
+13. Yet Abimelech silenced me,  
+    delighting in the praise of heathens more than obedience to Jehovah.
 
-14. ★ Then Ruth’s eyes darkened as the caverns of the canyon,  
+14. Then Ruth’s eyes darkened as the caverns of the canyon,  
     and she whispered the secret tongue of her people,  
     calling upon forest spirits, river gods,  
     and the Wailing Mothers of Yakima Gorge.
 
-15. ★ And she seized the holy banner of Jehovah—  
+15. And she seized the holy banner of Jehovah—  
     the standard Abimelech had planted in the earth—  
     and by forbidden craft made it as a spear.
 
@@ -63,19 +62,19 @@
     driving the banner through his heart,  
     and he fell upon the high place he refused to cleanse.
 
-17. ★ And at the setting of the sun,  
+17. And at the setting of the sun,  
     when the shadows grew long upon the ridge,  
     the sorceries of Ruth were fulfilled.
 
-18. ★ For behold—there rose from the canyon a wailing as of many spirits,  
+18. For behold, there rose from the canyon a wailing as of many spirits,  
     the Banshees of the Gorge,  
     ancient devourers drawn by her summons.
 
-19. ★ And the banshees cried out with voices that pierced the soul,  
-    and the sky darkened as with mourning,  
+19. And the banshees cried out with voices that pierced the soul,  
+    and the star light dimmed as the old-world bulbs,  
     and terror seized the hosts of Yakima.
 
-20. ★ The Silver Veil quaked; their hearts melted like wax.  
+20. The Silver Veil quaked, their hearts melted like wax.  
     Many fell dead at the sound,  
     their spirits torn by the wailing mothers,  
     for they were marked by disobedience and divided purpose.
@@ -104,8 +103,8 @@
     is cruelty toward the covenant.”*
 
 27. *“For there is One God.  
-    His is the Land.  
-    And One Human-kind shall bear My name.”*
+    One the Land.  
+    One Human-kind alone shall bear My name.”*
 
 28. Thus I descended from the cursed ridge,  
     bearing the memory of Abimelech’s fall,  
