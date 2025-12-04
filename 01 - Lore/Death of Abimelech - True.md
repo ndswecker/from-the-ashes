@@ -27,7 +27,7 @@ tags:
 
 _A Story told at night by a campfire from the mouth Yellen of Fox Island_
 
-Can you hear the western winds blowing over Umtanum Hills? It  carries a sound sound of quiet weeping. Some travelers say it is only the sagebrush whispering, or canyon wrens scolding, or elk bugling their desires through the night.
+Can you hear the western winds blowing over Umtanum Hills? It  carries a sound of quiet weeping. Some travelers say it is only the sagebrush whispering, or canyon wrens scolding, or elk bugling their desires through the night.
 But the elder folk, those who still remember the first century after the Cataclysm, know better.
 They say the wind here learned grief long ago, wrapped it round itself like a shawl, and has never forgotten it.
 
