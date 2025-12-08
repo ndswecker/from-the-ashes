@@ -33,7 +33,7 @@ They say the wind here learned grief long ago, wrapped it round itself like a sh
 
 This is the story that the Hegemony does not tell.
 The story Captain David buried beneath scripture and polished lies.
-The truth of the forsaken Umtanum Enclave, of Lady Ruth Ginsengburg youth, and of the birth of a monster forged in genocide.
+The truth of the forsaken Umtanum Enclave, of Lady Ruth Ginsengburg's youth, and of the birth of a monster forged in genocide.
 
 Long before the hills were stained with innocent blood, a fragile hope took root in the Wenas valley.
 
