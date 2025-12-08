@@ -37,6 +37,19 @@ While wearing this collar, the creature becomes a valid target for the **Command
 - Its sole purpose is to make domination simple, universal, and brutal.
 
 ---
+## Possesing but not Subjugated — When Holding an Unused Collar
+
+Before a long rest, while holdig this collar in a player's possession, the owner must make a **DC 15 Wisdom saving throw**.
+
+### On Success
+- The player may freely chose what do with the corrupt artifact.
+
+### On a Failure
+- The player is compelled to keep the collar and takes one **Corruption Point**.
+
+Upon 3 corruption points the owner of the collar is compelled to place the collar on the nearest non-human who does not already have the collar.
+
+---
 
 ## ☠️ Daily Psychological Harm
 
