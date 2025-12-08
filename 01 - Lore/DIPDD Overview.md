@@ -70,7 +70,7 @@ They gather.
 They wait.  
 And as millions begin to dissociate in unison, the Veil thins to transparency.
 
-DIPDD is the first observable symptom of a world beginning to break.
+DIPDD is the first observable symptom of a world beginning to break. It was the first of many calamaties that began the great Cataclysm. 
 
 ## Related Notes
 - [[DIPDD - DSM Diagnostic Criteria]]  
