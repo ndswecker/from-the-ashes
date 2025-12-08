@@ -101,7 +101,7 @@ Before each execution, Abimelech raised an iron fist skyward and intoned the cre
 
 One by one, they dragged each victim to the edge of the trench.
 One by one, he forced elves and tieflings to kneel beneath the power of his boot.
-One by one, Captain David drew his blade across their throats, and General Abimelech kicked their bodies into the pit. Adults, elders, mothers, and children.
+One by one, Captain David drew his blade across their throats, and General Abimelech kicked their lifeless bodies into the pit. Adults, elders, mothers, and children.
 
 “One God. One Land. One Human-kind.”
 
@@ -109,7 +109,7 @@ Every scream echoed, then drifted down into scrubland-barrens, swallowed by the 
 
 The land remembers, and withers still. Only the red blooms of the sagebrush mark this circle out as a monument to humankind’s brutality.
 
-As the massacre drew to an end, only a handful remained. A select few were chosen to kept alive, and set aside for interrogation, barter, sex-trafficing, or cruelty. Among them was Ruth Ginsengburg, a young elf who would one day found Elvensworth.
+As the massacre drew to an end, only a handful remained. A select few were chosen to be kept alive, and set aside for interrogation, barter, sex-trafficing, or cruelty. Among them was Ruth Ginsengburg, a young elf who would one day found Elvensworth.
 
 Abimelech did not kill her. He looked upon her and saw something he wanted to possess. A trophy? A slave? A token of conquest he believed he deserved.
 
